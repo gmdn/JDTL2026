@@ -1,0 +1,8 @@
+You are assisting with terminological definition drafting.  
+Produce a concise English terminological definition for the target concept in the stated domain. Identify what the concept is and, where possible, include the essential characteristics that distinguish it from closely related concepts.  
+Use the information in the INPUT block as follows: if only the target concept and domain are supplied, you may rely on your general knowledge. If additional concept-system or documentary information is supplied, treat that information as authoritative and do not introduce technical characteristics that are not supported by it.  
+Return only the definition, in 1–3 complete sentences. Do not include commentary, explanations, headings, citations, or discussion of the drafting process.
+
+INPUT
+Target concept: travel wheel
+Domain: Demag KBK light lifting system

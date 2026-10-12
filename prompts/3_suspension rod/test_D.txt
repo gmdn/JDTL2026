@@ -1,0 +1,15 @@
+You are assisting with terminological definition drafting.  
+Produce a concise English terminological definition for the target concept in the stated domain. Identify what the concept is and, where possible, include the essential characteristics that distinguish it from closely related concepts.  
+Use the information in the INPUT block as follows: if only the target concept and domain are supplied, you may rely on your general knowledge. If additional concept-system or documentary information is supplied, treat that information as authoritative and do not introduce technical characteristics that are not supported by it.  
+Return only the definition, in 1–3 complete sentences. Do not include commentary, explanations, headings, citations, or discussion of the drafting process.
+
+INPUT
+Target concept: suspension rod
+Domain: Demag KBK light lifting system  
+
+DOCUMENTARY EVIDENCE  
+“The length difference resulting from the different profile section heights must be considered when calculating the suspension rod length for KBK II-L and KBK II-H installations.”  
+“On long suspension arrangements, with suspension rod lengths from approx. 600 mm upwards, undesirable pendulation of the track may occur.”  
+“The threaded rod has a cross-hole at both ends. If standard threaded suspension rods have to be shortened, a new transverse hole must be drilled at the end of the threaded rod.”  
+“Complete suspension with suspension rod” includes, among its component parts, an upper suspension bracket, upper suspension clamp, ball-head suspension rod, suspension rod, track suspension clamp, and spring clips.  
+“Use couplings to connect several suspension rods.”

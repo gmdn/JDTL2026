@@ -1,0 +1,21 @@
+You are assisting with terminological definition drafting.  
+Produce a concise English terminological definition for the target concept in the stated domain. Identify what the concept is and, where possible, include the essential characteristics that distinguish it from closely related concepts.  
+Use the information in the INPUT block as follows: if only the target concept and domain are supplied, you may rely on your general knowledge. If additional concept-system or documentary information is supplied, treat that information as authoritative and do not introduce technical characteristics that are not supported by it.  
+Return only the definition, in 1–3 complete sentences. Do not include commentary, explanations, headings, citations, or discussion of the drafting process.
+
+INPUT
+Target concept: straight track section
+Domain: Demag KBK light lifting system  
+
+DOCUMENTARY EVIDENCE  
+“The basic elements of the KBK crane construction kit are cold-rolled special track sections made of steel that have a smooth surface finish, high rigidity and low deadweight. Special guide surfaces and slightly inclined running surfaces guarantee smooth trolley travel.”  
+“All components of each size (straight and curved sections, track switches, turntables, etc.) have the same connection dimensions and are easily assembled with bolted connections.”  
+“The ends of KBK straight track sections, made of special cold-rolled profiles, are fitted with three or four tube sections for bolting the individual track sections together or for fitting the end cap with buffer.”  
+“Curved sections are built up in the same manner as straight track sections.”
+
+CONCEPT-SYSTEM EVIDENCE
+Concept-system level of target: L4
+Immediate broader concept: track sections
+Broader concept of track sections: track system  
+Sibling concepts under track sections:
+curved section; DEL straight section; DEL curved section

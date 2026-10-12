@@ -1,0 +1,16 @@
+You are assisting with terminological definition drafting.  
+Produce a concise English terminological definition for the target concept in the stated domain. Identify what the concept is and, where possible, include the essential characteristics that distinguish it from closely related concepts.  
+Use the information in the INPUT block as follows: if only the target concept and domain are supplied, you may rely on your general knowledge. If additional concept-system or documentary information is supplied, treat that information as authoritative and do not introduce technical characteristics that are not supported by it.  
+Return only the definition, in 1–3 complete sentences. Do not include commentary, explanations, headings, citations, or discussion of the drafting process.
+
+INPUT
+Target concept: track switch
+Domain: Demag KBK light lifting system  
+
+DOCUMENTARY EVIDENCE  
+“To change the track switch position, turn one switch to the right or left and then press the pushbutton. The track switch then turns automatically until it is switched off at the limit position.”  
+“To change the track switch position, turn one switch to the right or left. The electric track switch monitoring device prevents the track switch from moving while a monorail hoist or trolley is located within the track switch zone.”  
+“KBK 100, KBK II/II-R and KBK III track switches are suspended in the same way as straight sections and bolted to the outgoing track sections.”  
+“On manually operated track switches, the cord pulleys must be set in accordance with the external dimension of the load and screwed tight. The pull ropes must be adjusted so that the handles are suspended at a convenient height for operation. The track switch is operated by a short strong pull on the rope until it comes to a stop so that the limit position is reached.”  
+“The inner section of the track switch must move freely.”  
+“There must be no resistance when a trolley/current collector trolley is pushed through straight and curved sections.”

@@ -1,0 +1,17 @@
+You are assisting with terminological definition drafting.  
+Produce a concise English terminological definition for the target concept in the stated domain. Identify what the concept is and, where possible, include the essential characteristics that distinguish it from closely related concepts.  
+Use the information in the INPUT block as follows: if only the target concept and domain are supplied, you may rely on your general knowledge. If additional concept-system or documentary information is supplied, treat that information as authoritative and do not introduce technical characteristics that are not supported by it.  
+Return only the definition, in 1–3 complete sentences. Do not include commentary, explanations, headings, citations, or discussion of the drafting process.
+
+INPUT
+Target concept: track switch
+Domain: Demag KBK light lifting system  
+
+CONCEPT-SYSTEM EVIDENCE
+Concept-system level of target: L4
+Immediate broader concept: track routing
+Broader concept of track routing: track system  
+Sibling concepts under track routing:
+turntable; gate section; drop section; stop station; separating station; non-return stop; trolley locking device; latching device  
+Definition of the broader concept “track routing”:
+“Within the KBK component concept system, track routing serves as a KBK-specific organizational concept used to group the components and assemblies that direct, divert, transfer, stop, separate, lock, or otherwise control the movement of trolleys and loads within a track system. Track routing includes concepts such as track switch, turntable, drop section, stop station, and other movement-control concepts. Track routing differs from track sections because track routing controls movement through the track system rather than forming the travel path itself. Track routing differs from track connections because track routing directs or controls trolley movement rather than creating permanent structural connections between track sections.”
